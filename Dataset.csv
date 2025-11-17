@@ -1,0 +1,61 @@
+movieId,title,genres,actors,director,ott
+1,Enthiran (2010),Sci-Fi|Action,Rajinikanth|Aishwarya Rai,Shankar,Sun NXT
+2,Aadukalam (2011),Action|Drama,Dhanush|Taapsee Pannu,Vetrimaaran,Amazon Prime
+3,Ko (2011),Thriller|Drama,Jeeva|Karthika Nair,K. V. Anand,Sun NXT
+4,Deiva Thirumagal (2011),Drama,Vikram|Anushka Shetty,A. L. Vijay,Disney+ Hotstar
+5,7aum Arivu (2011),Sci-Fi|Action,Suriya|Shruti Haasan,AR Murugadoss,Sun NXT
+6,Nanban (2012),Comedy|Drama,Vijay|Ileana D'Cruz,Shankar,Sun NXT
+7,Thuppakki (2012),Action|Thriller,Vijay|Kajal Aggarwal,AR Murugadoss,Netflix
+8,Kumki (2012),Drama|Romance,Vikram Prabhu|Lakshmi Menon,Prabu Solomon,Amazon Prime
+9,Viswaroopam (2013),Action|Drama,Kamal Haasan|Rahul Bose,Kamal Haasan,Disney+ Hotstar
+10,Arrambam (2013),Action|Thriller,Ajith Kumar|Nayanthara,Vishnuvardhan,Sony LIV
+11,Thalaivaa (2013),Action|Drama,Vijay|Amala Paul,A. L. Vijay,Sun NXT
+12,VIP (2014),Comedy|Drama,Dhanush|Amala Paul,Velraj,Disney+ Hotstar
+13,Kaaviya Thalaivan (2014),Drama|Period,Siddharth|Prithviraj,Vasanthabalan,Amazon Prime
+14,Kaththi (2014),Action|Drama,Vijay|Samantha,AR Murugadoss,Sun NXT
+15,Maari (2015),Action|Comedy,Dhanush|Kajal Aggarwal,Balaji Mohan,Zee5
+16,I (2015),Action|Thriller,Vikram|Amy Jackson,Shankar,Sun NXT
+17,Thani Oruvan (2015),Thriller|Action,Jayam Ravi|Arvind Swamy,Mohan Raja,Amazon Prime
+18,10 Endrathukulla (2015),Action|Thriller,Vikram|Samantha,Vijay Milton,Disney+ Hotstar
+19,Theri (2016),Action|Drama,Vijay|Samantha|Amy Jackson,Atlee,Amazon Prime
+20,24 (2016),Sci-Fi|Action,Suriya|Samantha|Nithya Menen,Vikram Kumar,Sun NXT
+21,Kabali (2016),Action|Drama,Rajinikanth|Radhika Apte,Pa. Ranjith,Disney+ Hotstar
+22,Remo (2016),Romance|Comedy,Sivakarthikeyan|Keerthy Suresh,Bakkiyaraj Kannan,Amazon Prime
+23,Mersal (2017),Action|Thriller,Vijay|Samantha|Kajal Aggarwal,Atlee,Netflix
+24,Vivegam (2017),Action|Thriller,Ajith Kumar|Kajal Aggarwal,Siva,Zee5
+25,Vikram Vedha (2017),Action|Thriller,Madhavan|Vijay Sethupathi,Pushkar-Gayathri,Amazon Prime
+26,Aramm (2017),Drama|Thriller,Nayanthara|Vignesh,Gopi Nainar,Amazon Prime
+27,Thaanaa Serndha Koottam (2018),Crime|Comedy,Suriya|Keerthy Suresh,Vignesh Shivan,Sun NXT
+28,Tik Tik Tik (2018),Sci-Fi|Thriller,Jayam Ravi|Nivetha Pethuraj,Shakti Soundar Rajan,Amazon Prime
+29,Kaala (2018),Action|Drama,Rajinikanth|Nana Patekar,Pa. Ranjith,Disney+ Hotstar
+30,Sarkar (2018),Action|Drama,Vijay|Keerthy Suresh,AR Murugadoss,Sun NXT
+31,96 (2018),Romance|Drama,Vijay Sethupathi|Trisha,C. Prem Kumar,Amazon Prime
+32,Vada Chennai (2018),Crime|Drama,Dhanush|Ameer,Vetrimaaran,Aha Tamil
+33,Asuran (2019),Action|Drama,Dhanush|Manju Warrier,Vetrimaaran,Amazon Prime
+34,Bigil (2019),Sports|Drama,Vijay|Nayanthara,Atlee,Amazon Prime
+35,Super Deluxe (2019),Drama|Crime,Vijay Sethupathi|Fahadh Faasil,Thiagarajan Kumararaja,Netflix
+36,Kaithi (2019),Action|Thriller,Karthi|Narain,Lokesh Kanagaraj,Disney+ Hotstar
+37,Petta (2019),Action|Drama,Rajinikanth|Simran,Karthik Subbaraj,Amazon Prime
+38,Master (2021),Action|Thriller,Vijay|Vijay Sethupathi,Lokesh Kanagaraj,Amazon Prime
+39,Sulthan (2021),Action|Drama,Karthi|Rashmika Mandanna,Bakkiyaraj Kannan,Disney+ Hotstar
+40,Doctor (2021),Comedy|Action,Sivakarthikeyan|Priyanka Mohan,Nelson Dilipkumar,Netflix
+41,Maanaadu (2021),Sci-Fi|Action,Silambarasan|SJ Suryah,Venkat Prabhu,Sony LIV
+42,Jai Bhim (2021),Drama|Crime,Suriya|Lijomol Jose,TJ Gnanavel,Amazon Prime
+43,Beast (2022),Action|Comedy,Vijay|Pooja Hegde,Nelson Dilipkumar,Netflix
+44,Don (2022),Comedy|Drama,Sivakarthikeyan|Priyanka Mohan,Cibi Chakravarthi,Netflix
+45,Vikram (2022),Action|Thriller,Kamal Haasan|Fahadh Faasil|Vijay Sethupathi,Lokesh Kanagaraj,Disney+ Hotstar
+46,Love Today (2022),Romance|Comedy,Pradeep Ranganathan|Ivana,Pradeep Ranganathan,Netflix
+47,Sardar (2022),Action|Drama,Karthi|Raashi Khanna,PS Mithran,Netflix
+48,Ponniyin Selvan: Part 1 (2022),History|Drama,Vikram|Karthi|Jayam Ravi,Mani Ratnam,Amazon Prime
+49,Ponniyin Selvan: Part 2 (2023),History|Drama,Vikram|Karthi|Jayam Ravi,Mani Ratnam,Amazon Prime
+50,Thunivu (2023),Action|Thriller,Ajith Kumar|Manju Warrier,H. Vinoth,Netflix
+51,Varisu (2023),Drama|Family,Vijay|Rashmika Mandanna,Vamshi Paidipally,Amazon Prime
+52,Nanpakal Nerathu Mayakkam (2023),Drama|Fantasy,Mammootty|Ramya Pandian,Lijo Jose Pellissery,Netflix
+53,Ayothi (2023),Drama|Family,Sasidaran|Preethi Asrani,R. Manthira Moorthy,Zee5
+54,Dada (2023),Romance|Drama,Kavin|Aparna Das,Ganesh K. Babu,Amazon Prime
+55,Por Thozhil (2023),Thriller|Crime,Ashok Selvan|Sarath Kumar,Vignesh Raja,Sony LIV
+56,Jailer (2023),Action|Comedy,Rajinikanth|Vinayakan,Nelson Dilipkumar,Amazon Prime
+57,Mark Antony (2023),Action|Sci-Fi,Vishal|SJ Suryah,Adhik Ravichandran,Amazon Prime
+58,Leo (2023),Action|Thriller,Vijay|Trisha,Lokesh Kanagaraj,Netflix
+59,Good Night (2023),Comedy|Drama,Manikandan|Meetha Raghunath,Vinayak Chandrasekaran,Disney+ Hotstar
+60,Blue Star (2023),Sports|Drama,Ashok Selvan|Shanthanu,S. Jayakumar,Amazon Prime
